@@ -1,3 +1,5 @@
+![binarium bot](https://github.com/user-attachments/assets/54afd5b8-4cb6-4778-be7c-de43b1b184f8)
+
 # Бот для Бинариум
 Вы ищите бота для Бинариум? хотел бы вам рассказать о боте BOptionsB который работает со множествами бинарными опционами
 это Binarium, Pocket Option, Quotex и другие популярные трейдинговые платформы
