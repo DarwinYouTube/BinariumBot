@@ -11,5 +11,6 @@
 Подписка на все время - 9990р
 # Как работает бот для Бинариум
 Все видео с торговли вы можете посмотреть тут: https://vk.com/binariumfreesignal
+Бот работает в Телеграме: https://t.me/boptionsb_bot
 Так же отдельный обзор с брокером торговли с сигналами бота для бинариум:
 [![Бот для Бинариум](https://img.youtube.com/vi/y_PC4nSXfyA/0.jpg)](https://www.youtube.com/watch?v=y_PC4nSXfyA)
