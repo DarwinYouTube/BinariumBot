@@ -1,9 +1,9 @@
 # Binarium Telegram Bot
 
-[![GitHub stars](https://img.shields.io/github/stars/DarwinYouTube/BinariumBot?style=social)](https://github.com/ваш_ник_на_гитхабе/binarium-telegram-bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DarwinYouTube/BinariumBot?style=social)](https://github.com/ваш_ник_на_гитхабе/binarium-telegram-bot/network)
+[![GitHub stars](https://img.shields.io/github/stars/DarwinYouTube/BinariumBot?style=social)](https://github.com/DarwinYouTube/BinariumBot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DarwinYouTube/BinariumBot?style=social)](https://github.com/DarwinYouTube/BinariumBot/network)
 [![GitHub issues](https://img.shields.io/github/issues/DarwinYouTube/BinariumBot)](https://github.com/DarwinYouTube/BinariumBot/issues)
-[![License](https://img.shields.io/github/license/DarwinYouTube/BinariumBot)](https://github.com/DarwinYouTube/BinariumBot/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/DarwinYouTube/BinariumBot)](https://github.com/DarwinYouTube/BinariumBot/blob/main/LICENSE.md)
 [![GitHub last commit](https://img.shields.io/github/last-commit/DarwinYouTube/BinariumBot)](https://github.com/DarwinYouTube/BinariumBot/commits/main)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
